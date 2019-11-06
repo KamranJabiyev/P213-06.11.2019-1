@@ -1,0 +1,29 @@
+.fa-cloud-download-alt {
+    font-size: 60px;
+    color: green;
+    cursor: pointer;
+}
+
+.item {
+    margin: 50px;
+    width: 100%;
+    height: 250px;
+    background: grey;
+    line-height: 250px;
+}
+
+.table img {
+    width: 150px;
+}
+
+.table {
+    visibility: hidden;
+}
+
+#remove {
+    visibility: hidden;
+}
+
+.show {
+    visibility: visible !important;
+}
